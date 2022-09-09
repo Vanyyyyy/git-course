@@ -1,0 +1,1 @@
+body.welcome = '<h1>Hello js </h1>'
